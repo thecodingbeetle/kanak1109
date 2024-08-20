@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 WEB DEVELOPER
 -------------
 
-I am a skilled developer with a strong background in Java Spring Boot and frontend technologies. My experience spans designing and implementing robust backend solutions using Spring Boot, a powerful framework for building production-ready applications. I excel in creating scalable and maintainable code, integrating RESTful APIs, and optimizing application performance. In addition to my backend skills, I have a solid foundation in frontend development. I am proficient in HTML, CSS, and JavaScript, and I have experience with modern frontend frameworks and libraries such as React
+I am a skilled developer with a strong background in MERN STACK. My experience spans designing and implementing robust backend solutions using Nodejs, a powerful framework for building production-ready applications. I excel in creating scalable and maintainable code, integrating RESTful APIs, and optimizing application performance. In addition to my backend skills, I have a solid foundation in frontend development. I am proficient in HTML, CSS, and JavaScript, and I have experience with modern frontend frameworks and libraries such as React
 
 ### Skills
 
