@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<p align="center">A passionate [Your Role] and lifelong learner 🚀</p>
+<h1 align="center">Hi 👋, I'm Kanak Attre</h1>
+<p align="center">A passionate software developer and lifelong learner 🚀</p>
 
-- 🔭 I’m currently working on **[Your Current Project/Goal]**
-- 🌱 I’m currently learning **[Tech you're learning, e.g., React, DSA, System Design]**
-- 👨‍💻 All of my projects are available at [GitHub Profile Link](https://github.com/yourusername)
-- 💬 Ask me about **[Languages/Tech you are good at]**
-- 📫 How to reach me **[Your Email]**
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/...)
+
+- 🌱 I’m currently expanding my skills in Mern Stack
+- 👨‍💻 All of my projects are available at [GitHub Profile Link](https://github.com/kanak1109)
+- 💬 Ask me about Javascript,C++,Nodejs,React
+- 📫 How to reach me **kanakattre@gmail.com**
+   📄 Know about my experiences [Resume Link](https://drive.google.com/...)
 
 ---
 
@@ -78,13 +78,6 @@
   <!-- Add or remove icons based on your skills -->
 </p>
 
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ---
 
