@@ -1,27 +1,99 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KANAK ATTRE
-===================================================================================================================================
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<p align="center">A passionate [Your Role] and lifelong learner 🚀</p>
 
-WEB DEVELOPER
--------------
+- 🔭 I’m currently working on **[Your Current Project/Goal]**
+- 🌱 I’m currently learning **[Tech you're learning, e.g., React, DSA, System Design]**
+- 👨‍💻 All of my projects are available at [GitHub Profile Link](https://github.com/yourusername)
+- 💬 Ask me about **[Languages/Tech you are good at]**
+- 📫 How to reach me **[Your Email]**
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/...)
 
-I am a skilled developer . My experience spans designing and implementing robust backend solutions using MERN, a powerful framework for building production-ready applications. I excel in creating scalable and maintainable code, integrating RESTful APIs, and optimizing application performance. In addition to my backend skills, I have a solid foundation in frontend development. I am proficient in HTML, CSS, and JavaScript, and I have experience with modern frontend frameworks and libraries such as React
+---
 
-### Skills
-
+### 🌐 Connect with me:
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="mailto:your.email@example.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="30" width="40" /></a>
+<!-- Add other links like Twitter, Dev.to, Portfolio -->
 </p>
 
+---
 
-### Socials
+### 🛠️ Languages and Tools:
 
-<p align="left"> <a href="https://www.github.com/kanak1109" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+  <!-- Add or remove icons based on your skills -->
+</p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 📊 GitHub Stats
 
-<a href="http://www.github.com/kanak1109"><img src="https://github-readme-stats.vercel.app/api?username=kanak1109&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kanak1109's GitHub stats" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+---
+
+### 📌 Pinned Projects
+
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<p align="center">A passionate [Your Role] and lifelong learner 🚀</p>
+
+- 🔭 I’m currently working on **[Your Current Project/Goal]**
+- 🌱 I’m currently learning **[Tech you're learning, e.g., React, DSA, System Design]**
+- 👨‍💻 All of my projects are available at [GitHub Profile Link](https://github.com/yourusername)
+- 💬 Ask me about **[Languages/Tech you are good at]**
+- 📫 How to reach me **[Your Email]**
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/...)
+
+---
+
+### 🌐 Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="mailto:your.email@example.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="30" width="40" /></a>
+<!-- Add other links like Twitter, Dev.to, Portfolio -->
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+  <!-- Add or remove icons based on your skills -->
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+---
+
+### 📌 Pinned Projects
+
+<!-- These are automatically shown if pinned on GitHub. But for manual listing, you can add: -->
+
+- [**Project Name**](https://github.com/yourusername/projectname) – short description  
+- [**Another Project**](https://github.com/yourusername/anotherproject) – short description  
+
 
 <a href="https://github.com/kanak1109" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanak1109&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
