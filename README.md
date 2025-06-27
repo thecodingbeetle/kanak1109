@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanak Attre</h1>
 <p align="center">A passionate software developer and lifelong learner 🚀</p>
 
-
 - 🌱 I’m currently expanding my skills in Mern Stack
 - 👨‍💻 All of my projects are available at [GitHub Profile Link](https://github.com/kanak1109)
 - 💬 Ask me about Javascript,C++,Nodejs,React
